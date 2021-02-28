@@ -1,0 +1,52 @@
+body{
+  background-color: #283149;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Ranchers', cursive;
+  margin: 60px;
+  font-size: 6rem;
+  color: #DBEDF3;
+  text-shadow: 8px 0 black;
+}
+
+.w{
+
+  background-image:url("picturedrum/tom1.png");
+}
+.a{
+  background-image:url("picturedrum/tom2.png");
+}
+.s{
+  background-image:url("picturedrum/tom3.png");
+}
+.d{
+  background-image:url("picturedrum/tom4.png");
+}
+.j{
+  background-image:url("picturedrum/snare.png");
+}
+.k{
+  background-image:url("picturedrum/crash.png");
+}
+.l{
+  background-image:url("picturedrum/kick.png");
+}
+
+.box{
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  padding: 60px;
+  border: 10px solid #8d93ab;
+  border-radius: 5%;
+  background-color: #f1f3f8;
+  font-family: 'Indie Flower', cursive;
+}
+
+footer{
+  color: white;
+  font-family:  'Dancing Script', cursive;
+  margin-top:100px;
+}
